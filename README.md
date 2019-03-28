@@ -1,1 +1,1 @@
-# GUI_2_CC
+# CourseConstructor

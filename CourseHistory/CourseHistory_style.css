@@ -1,0 +1,91 @@
+body { 
+    font-family: 'Open Sans',sans-serif;
+  }
+
+  h3 {
+    margin: 0px;
+    font-size: 14pt;
+  }
+  h4 {
+    margin: 0px;
+  }
+  /*  see style.css
+  .row.content {
+    position: relative;
+    height: 475px;
+    margin-top: 100px; 
+  }
+  */
+  hr {
+      color: unset;
+      color: black;
+  }
+  .student-name {
+    position: relative;
+    max-width: 700px;
+  }
+  .student-advisor {
+    position: relative;
+    max-height: 5%;
+    max-width: 700px;
+    border-radius: 6px;
+    border: solid #d3d3d3 3px; 
+    padding: 0px;
+    padding-top: 0px; 
+    margin-bottom: 15px;
+  }
+  .student {
+    display: inline-flex;
+    position: relative;
+    border: solid lightblue 1px;
+    height: 75px;
+    width: 340px;
+    margin: 0px;
+    padding: 5px;
+    font-size: unset;
+    font-size: 14px;
+  }
+  .advisor {
+    display: inline-flex;
+    position: relative;
+    border: solid lightblue 1px;
+    height: 75px;
+    width: 340px;
+    margin: 0px;
+    padding: 5px;
+    font-size: unset;
+    font-size: 14px;
+  }
+  /***************** COURSE HISTORY START ********************/
+  .history_header {
+    position: relative;
+    max-width: 700px;
+  }
+  .course-history {
+    position: relative;
+    height: 30%;
+    max-width: 700px;
+    border-radius: 6px;
+    border: solid #d3d3d3 3px;
+  }
+  p.search-courses {
+      font-style: italic;
+  }
+  .search-courses {
+    display: inline-flex;
+    position: relative;
+    border: solid lightblue 1px;
+    height: 300px;
+    width: 330px;
+    padding: 10px;
+    overflow: hidden;
+  }
+  .confirm-courses {
+    display: inline-flex;
+    position: relative;
+    border: solid lightblue 1px;
+    height: 300px;
+    width: 330px;
+    padding: 10px;
+    margin: 0px;
+  }
